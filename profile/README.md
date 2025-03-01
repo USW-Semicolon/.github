@@ -9,6 +9,6 @@
 
 <div>
   <a href="https://discord.gg/RaXe5C3k/"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-0?&style=for-the-badge&logo=discord&logoColor=FFFFFF&color=0067A3"/></a>
-  <a href="https://muddy-boater-2d7.notion.site/2024-06eebb87dd0047eabf6291ae17c1c43a"><img alt="Notion" src="https://img.shields.io/badge/NOTION-0?&style=for-the-badge&logo=notion&logoColor=FFFFFF&color=000000"/></a><br>
+  <a href="https://trusted-boar-4fe.notion.site/Semicolon-1a94ba5ff9c5802aae9ecf7a99745b8e"><img alt="Notion" src="https://img.shields.io/badge/NOTION-0?&style=for-the-badge&logo=notion&logoColor=FFFFFF&color=000000"/></a><br>
 </div>
 </div>
